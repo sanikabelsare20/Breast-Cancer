@@ -1,8 +1,13 @@
 🩺 Breast Cancer Classification: A GUI-Based Approach
- Project Overview
-Breast Cancer Classification: A GUI-Based Approach is a deep learning-driven application designed to classify breast cancer from mammographic images. The project employs advanced image processing and deep learning techniques to assist healthcare professionals in diagnosing breast cancer effectively.
 
-This project provides a user-friendly Graphical User Interface (GUI) using Streamlit, with a robust backend powered by MongoDB, and is deployed on a freely available cloud platform.
+
+Project Overview
+Breast Cancer Classification: A GUI-Based Approach is a deep learning-driven application designed to classify
+breast cancer from mammographic images. The project employs advanced image processing and deep learning techniques
+to assist healthcare professionals in diagnosing breast cancer effectively.
+
+This project provides a user-friendly Graphical User Interface (GUI) using Streamlit, with a robust backend 
+powered by MongoDB, and is deployed on a freely available cloud platform.
 
 🚀 Features
 Image Upload: Supports JPEG format mammographic images.
