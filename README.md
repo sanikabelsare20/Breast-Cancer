@@ -2,6 +2,7 @@
 
 
 Project Overview
+
 Breast Cancer Classification: A GUI-Based Approach is a deep learning-driven application designed to classify
 breast cancer from mammographic images. The project employs advanced image processing and deep learning techniques
 to assist healthcare professionals in diagnosing breast cancer effectively.
@@ -10,13 +11,20 @@ This project provides a user-friendly Graphical User Interface (GUI) using Strea
 powered by MongoDB, and is deployed on a freely available cloud platform.
 
 🚀 Features
+
 Image Upload: Supports JPEG format mammographic images.
-Feature Extraction: Automatically extracts important features such as:
+
+Feature Extraction: 
+
+Automatically extracts important features such as:
 breast_density	,left_or_right_breast, 	image_view,	abnormality_id,	abnormality_type,	mass_shape,	mass_margins,	 pathology. 
+
 Model Comparison: Uses three deep learning models:
 VGG16 (Best Performance)
 ResNet50
 MobileNet
+
+
 Prediction: Provides clear classification results.
 Interactive GUI: Easy-to-use interface with Streamlit.
 
@@ -37,6 +45,8 @@ Display Results: Shows the prediction results and stores them in MongoDB.
 Launch the Streamlit app.
 Upload a mammographic image.
 View the classification result.
+
+
 📈 Results
 VGG16: Best classification performance.
 ResNet50 & MobileNet: Used for comparative analysis.
